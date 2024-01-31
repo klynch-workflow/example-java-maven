@@ -19,7 +19,6 @@ public class Main {
   }
 
   private static void filterXMLSignature() {
-    /* byte array */
     byte[] bytes = new byte[256];
 
     try {
