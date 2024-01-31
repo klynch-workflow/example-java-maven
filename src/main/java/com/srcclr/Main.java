@@ -21,7 +21,6 @@ public class Main {
   private static void filterXMLSignature() {
     byte[] bytes = new byte[256];
 
-    /* do this */
     try {
       new MultipartStream(new ByteArrayInputStream(bytes), bytes);
     } catch (IOException ignored) {
