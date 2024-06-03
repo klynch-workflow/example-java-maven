@@ -1,5 +1,7 @@
 # [:] Example Maven Project
 
+# Hello World
+
 An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
